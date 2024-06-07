@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Rabbit]https://github.com/MegaAndrew/megaandrew/blob/assets/rabbit1.jpg
+![Rabbit](https://github.com/MegaAndrew/megaandrew/blob/assets/rabbit1.jpg)
 
 <!--
 **MegaAndrew/megaandrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
